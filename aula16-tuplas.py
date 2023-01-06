@@ -34,4 +34,4 @@ a = (2, 5, 4)
 b = (5, 8, 1, 2)
 c = b + a  #SOMENTE SOMA, MEIO QUE CONTATENA
 print(c)
-
+print (c.index(4)) #### index mostra a posicao onde esta o elemento####
