@@ -9,7 +9,8 @@ c) Times em ordem alfabética.
 d) Em que posição está o time da Coritiba."""
 
 
-times = ('Palmeiras',
+times = (
+'Palmeiras',
 'Atlético-MG',
 'Corinthians',
 'Internacional',
@@ -28,7 +29,8 @@ times = ('Palmeiras',
 'América-MG',
 'Atlético-GO',
 'Fortaleza',
-'Juventude')
+'Juventude'
+)
 
 print('-=' *15)
 print(f'Lista de times{times}')
